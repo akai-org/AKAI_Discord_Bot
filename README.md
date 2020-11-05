@@ -26,8 +26,4 @@ val commands = listOf (
 ### Installation
 
 Just create a fork and start coding :)
-Please check the JDA Repo for further information on how to use the API
-
-### Hosting
-
-I suggest using DigitalOcean Droplets - you can get a Droplet for just 5$ a month
+Please check the JDA Repo for further information on how to use the AP
